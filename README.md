@@ -2,7 +2,7 @@
 
 <div align="right">
   
-[![HitCount](https://hits.dwyl.com/JVSMOTA/Projeto-de-Software.svg?style=flat-square)](http://hits.dwyl.com/JVSMOTA/IntroducaoALogicaDeProgramacaoComPython)
+[![HitCount](https://hits.dwyl.com/JVSMOTA/IntroducaoALogicaDeProgramacaoComPython.svg?style=flat-square)](http://hits.dwyl.com/JVSMOTA/IntroducaoALogicaDeProgramacaoComPython)
 
 </div>
 
