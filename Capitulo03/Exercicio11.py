@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 11:48:33
+# Time of Creation: 11:48:33
 #
 # Question: Faça um programa que solicite o preço de uma mercadoria e o percentual de desconto. Exiba o valor do desconto e o preço a pagar.
 #

@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 11:05:46
+# Time of Creation: 11:05:46
 #
 # Question: Modifique o primeiro programa, listagem 2.7, de forma a calcular a soma de três variáveis.
 #

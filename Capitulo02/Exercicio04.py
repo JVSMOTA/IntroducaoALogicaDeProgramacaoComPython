@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 11:03:45
+# Time of Creation: 11:03:45
 #
 # Question: Escreva um programa que exiba o resultado de 2a × 3b, onde a vale 3 e b vale 5.
 #

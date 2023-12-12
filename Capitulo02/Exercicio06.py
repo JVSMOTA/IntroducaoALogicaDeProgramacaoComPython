@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 11:07:29
+# Time of Creation: 11:07:29
 #
 # Question: Modifique o programa da listagem 2.11, de forma que ele calcule um aumento de 15% para um salário de R$ 750.
 #

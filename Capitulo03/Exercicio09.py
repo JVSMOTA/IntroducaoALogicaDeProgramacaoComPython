@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 11:34:37
+# Time of Creation: 11:34:37
 #
 # Question: Escreva um programa que leia a quantidade de dias, horas, minutos e segundos do usuário. Calcule o total em segundos.
 #

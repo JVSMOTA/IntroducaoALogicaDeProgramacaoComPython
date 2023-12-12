@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 11:25:37
+# Time of Creation: 11:25:37
 #
 # Question: Faça um programa que peça dois números inteiros. Imprima a soma desses dois números na tela.
 #

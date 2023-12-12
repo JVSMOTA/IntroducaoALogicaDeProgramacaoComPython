@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 13:54:20
+# Time of Creation: 13:54:20
 #
 # Question: Analise o programa da listagem 4.2. Responda o que acontece se o primeiro e o segundo valores forem iguais? Explique.
 #

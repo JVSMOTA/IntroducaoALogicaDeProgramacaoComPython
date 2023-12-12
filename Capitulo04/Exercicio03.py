@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 14:10:19
+# Time of Creation: 14:10:19
 #
 # Question: Escreva um programa que leia três números e que imprima o maior e o menor.
 #

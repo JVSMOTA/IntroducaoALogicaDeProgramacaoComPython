@@ -5,7 +5,7 @@
 #==============================================================================#
 
 # Created: 11/12/2023
-# Hour: 10:55:58
+# Time of Creation: 10:55:58
 #
 # Question: Criar o primeiro arquivo de "Hello World!".
 #
