@@ -21,3 +21,4 @@ while (ultimoNumero != 0):
 
 print(f"Quantidade de números: {quantidadeDeNumeros}")
 print(f"A soma total é: {somaTotal}")
+print(f"A média geral é: {somaTotal/quantidadeDeNumeros}")
